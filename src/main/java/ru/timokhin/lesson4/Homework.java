@@ -64,25 +64,25 @@ public class Homework {
 
     public synchronized void addALetter(char letter, int id) throws InterruptedException {
         if(lastUsersId==1 && id==2) {
-            System.out.println(letter);
+            System.out.print(letter);
             lastUsersId = id;
             notifyAll();
             wait();
         }
         else if(lastUsersId==2&& id==3){
-            System.out.println(letter);
+            System.out.print(letter);
             lastUsersId = id;
             notifyAll();
             wait();
         }
         else if(lastUsersId ==3 && id==1){
-            System.out.println(letter);
+            System.out.print(letter);
             lastUsersId = id;
             notifyAll();
             wait();
         }
         else if(lastUsersId==0 && id ==1){
-            System.out.println(letter);
+            System.out.print(letter);
             lastUsersId = id;
             notifyAll();
             wait();
@@ -99,8 +99,15 @@ public class Homework {
 
             for (int i = 0; i < 10; i++) {
                 String phrase = phrasesforT1[i];
+                char[] loo = phrase.toCharArray();
+                int j =0;
+                byte[] lpo =new byte[loo.length];
+                for (char c : loo) {
+                    lpo[j] = (byte) c;
+                    j++;
+                }
                 try {
-                    fos.write(Integer.parseInt(phrase));
+                    fos.write(lpo);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -110,8 +117,15 @@ public class Homework {
 
             for (int i = 0; i < 10; i++) {
                 String phrase = phrasesforT2[i];
+                char[] loo = phrase.toCharArray();
+                int j =0;
+                byte[] lpo =new byte[loo.length];
+                for (char c : loo) {
+                    lpo[j] = (byte) c;
+                    j++;
+                }
                 try {
-                    fos.write(Integer.parseInt(phrase));
+                    fos.write(lpo);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -121,8 +135,15 @@ public class Homework {
 
             for (int i = 0; i < 10; i++) {
                 String phrase = phrasesforT3[i];
+                char[] loo = phrase.toCharArray();
+                int j =0;
+                byte[] lpo =new byte[loo.length];
+                for (char c : loo) {
+                    lpo[j] = (byte) c;
+                    j++;
+                }
                 try {
-                    fos.write(Integer.parseInt(phrase));
+                    fos.write(lpo);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -228,6 +249,7 @@ public class Homework {
                new Homework().part1();
             else if (id == 2) {
                 try {
+                    System.out.println();
                     Homework.part2();
                 } catch (FileNotFoundException e) {
                     e.printStackTrace();
