@@ -10,7 +10,13 @@ public class MainClass {
     public static final int CARS_COUNT = 4;
     public static final int MAX_CARS_IN_TUNNEL = CARS_COUNT / 2;
     public static boolean[] isNotEmpty = new boolean[MAX_CARS_IN_TUNNEL];
-    static Race race = new Race(new Road(60), new Tunnel(), new Road(40), new Finish());// создаем трассу
+    private static final int SMALL_FIELD_SIZE = 20;
+    private static final int MEDIUM_FIELD_SIZE = 40;
+    private static final int LARGE_FIELD_SIZE = 60;
+    private static final int SMALL_TUNNEL_SIZE = 40;
+    private static final int MEDIUM_TUNNEL_SIZE = 60;
+    private static final int LARGE_TUNNEL_SIZE = 80;
+    static Race race = new Race(new Road(LARGE_FIELD_SIZE), new Tunnel(LARGE_TUNNEL_SIZE), new Road(MEDIUM_FIELD_SIZE), new Finish());// создаем трассу
     public static Semaphore placesInTunnel = new Semaphore(MAX_CARS_IN_TUNNEL, true);
     public static CountDownLatch start = new CountDownLatch(CARS_COUNT);
     public static CountDownLatch finish = new CountDownLatch(race.getStagesNo() * CARS_COUNT);
@@ -188,6 +194,10 @@ class Road extends Stage {
 class Tunnel extends Stage {
     public Tunnel() {
         this.length = 80;
+        this.description = "Тоннель " + length + " метров";
+    }
+    public Tunnel(int length){
+        this.length = length;
         this.description = "Тоннель " + length + " метров";
     }
 
