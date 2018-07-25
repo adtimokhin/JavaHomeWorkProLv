@@ -1,0 +1,182 @@
+11:07:27.768 [main] INFO  ru.timokhin.lesson7.TestRunner - Все ок
+11:47:04.065 [main] WARN  ru.timokhin.lesson7.TestRunner - Ни один из методов класса ru.timokhin.lesson7.TestClass не содержал аннотации BeforeSuit
+11:47:16.771 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+11:53:59.764 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:00:51.054 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:00:51.058 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:00:51.060 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию AfterSuit
+12:00:51.060 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:01:24.352 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:01:24.357 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:01:24.357 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию AfterSuit
+12:03:53.840 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:03:53.844 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:03:53.844 [main] INFO  ru.timokhin.lesson7.TestRunner - test3 содержит аннотацию AfterSuit
+12:03:53.844 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:03:59.676 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:03:59.679 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:03:59.680 [main] INFO  ru.timokhin.lesson7.TestRunner - test3 содержит аннотацию AfterSuit
+12:03:59.680 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:04:03.154 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:04:03.157 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:04:03.158 [main] INFO  ru.timokhin.lesson7.TestRunner - test3 содержит аннотацию AfterSuit
+12:04:03.158 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:04:21.819 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию BeforeSuit
+12:04:21.823 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:04:21.823 [main] INFO  ru.timokhin.lesson7.TestRunner - test3 содержит аннотацию AfterSuit
+12:04:21.823 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:20:10.673 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:20:10.676 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:20:10.677 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 0 методов с аннотацией @Test
+12:20:10.677 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:20:10.678 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:20:58.780 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:20:58.785 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:20:58.787 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 1 методов с аннотацией @Test
+12:20:58.787 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:20:58.787 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:36:46.896 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:36:46.900 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:36:46.902 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 0 методов с аннотацией @Test
+12:36:46.902 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:36:46.902 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:37:44.940 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:37:44.944 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:37:44.946 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:38:06.157 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:38:06.165 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:38:06.166 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:39:14.566 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:39:14.571 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:39:14.575 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:39:14.576 [main] INFO  ru.timokhin.lesson7.TestRunner - Все 3 методов с аннотацией @Test были переставлены в проядке возрастания
+12:39:14.576 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:39:14.576 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:39:37.309 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:39:37.313 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:39:37.314 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:39:37.315 [main] INFO  ru.timokhin.lesson7.TestRunner - Все 3 методов с аннотацией @Test были переставлены в проядке возрастания
+12:39:37.315 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:39:37.315 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:54:21.810 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:54:21.814 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:54:21.822 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:54:21.822 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+12:54:21.822 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:54:21.822 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:54:49.169 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:54:49.172 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:54:49.174 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:54:49.174 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+12:54:49.174 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:54:49.175 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:55:05.279 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:55:05.284 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:55:05.286 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:55:05.286 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+12:55:05.287 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:55:05.287 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:57:36.356 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+12:57:36.361 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+12:57:36.366 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+12:57:36.367 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+12:57:36.367 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+12:57:36.367 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:01:03.587 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:01:03.596 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:01:03.599 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:01:03.599 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:01:03.601 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:01:03.601 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:04:01.240 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:04:01.245 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:04:01.245 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:04:01.246 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:06:25.560 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:06:25.566 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:06:25.570 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:06:25.570 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:06:25.571 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:06:25.571 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:06:58.953 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:06:58.958 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:06:58.958 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:06:58.958 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:06:58.959 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:06:58.959 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:10:39.591 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:10:39.596 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:10:39.599 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:10:39.599 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:10:39.600 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:10:39.600 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:13:10.919 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:13:10.923 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:13:10.924 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:13:10.925 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:15:43.851 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:15:53.787 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:15:53.787 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:15:53.788 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:17:03.774 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:17:24.375 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:17:52.521 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:17:56.326 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:17:56.327 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:17:56.327 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:19:37.681 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:19:42.171 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:19:42.172 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:19:42.173 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:20:04.245 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test3 не удался
+13:20:47.053 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:20:50.485 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:20:50.488 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:20:50.488 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:20:52.564 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:21:24.473 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test4 не удался
+13:32:02.591 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:32:02.600 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:32:02.605 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test3 не удался. Причина : метод должен быть без параметров
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:32:02.605 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test4 не удался. Причина : метод должен быть без параметров
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test4 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:32:02.605 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test5 не удался. Причина : метод должен быть без параметров
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test5 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:32:02.605 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:32:02.606 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:49:15.812 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+13:49:15.818 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:49:15.819 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+13:49:15.819 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+13:49:15.820 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test3 не удался. Причина : метод должен быть без параметров
+13:49:15.820 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:49:15.820 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test4 не удался. Причина : метод должен быть без параметров
+13:49:15.820 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test4 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:49:15.820 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test5 не удался. Причина : метод должен быть без параметров
+13:49:15.820 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test5 из класса ru.timokhin.lesson7.TestClass был вызвын
+13:49:15.821 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+13:49:15.821 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:23:41.837 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+16:23:41.841 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:23:41.841 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+16:23:41.842 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+16:23:41.842 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test3 не удался. Причина : метод должен быть без параметров
+16:23:41.842 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:23:41.842 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test4 не удался. Причина : метод должен быть без параметров
+16:23:41.842 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test4 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:23:41.842 [main] ERROR ru.timokhin.lesson7.TestRunner - invoke метода test5 не удался. Причина : метод должен быть без параметров
+16:23:41.842 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test5 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:23:41.843 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+16:23:41.843 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:24:09.928 [main] INFO  ru.timokhin.lesson7.TestRunner - test1 содержит аннотацию @BeforeSuit
+16:24:09.932 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test1 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:24:09.933 [main] INFO  ru.timokhin.lesson7.TestRunner - из класса ru.timokhin.lesson7.TestClass было извлечино 3 методов с аннотацией @Test
+16:24:09.933 [main] INFO  ru.timokhin.lesson7.TestRunner - Все методы в количестве 3 с аннотацией @Test были переставлены в проядке возрастания
+16:24:09.933 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test3 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:24:09.934 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test4 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:24:09.934 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test5 из класса ru.timokhin.lesson7.TestClass был вызвын
+16:24:09.934 [main] INFO  ru.timokhin.lesson7.TestRunner - test2 содержит аннотацию @AfterSuit
+16:24:09.934 [main] INFO  ru.timokhin.lesson7.TestRunner - метод test2 из класса ru.timokhin.lesson7.TestClass был вызвын
